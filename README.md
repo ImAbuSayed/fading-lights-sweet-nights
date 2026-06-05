@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fading-lights-sweet-nights/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Fading Lights Sweet Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fading-lights-sweet-nights/) |
+| **Get License** | [Get a Licensing Quote for Fading Lights Sweet Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fading-lights-sweet-nights/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Fading lights and sweet, soft nights
+> Caught in the pull of these starry sights
+> Pulling you close by the fire's warm glow
+> It’s just you and me where the quiet winds blow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
